@@ -1,5 +1,5 @@
 # plotting-graph-in-csharp
-This program plots a graph using collection of points.
+This WPF app plots a graph using collection of points.
 ## Clone this repository with 
 ```
 git clone  https://github.com/Simran93504/plotting-graph-in-csharp.git
